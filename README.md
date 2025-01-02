@@ -30,8 +30,8 @@ To run tests, once can do:
 
 ### Datastructures in this repository
 #### Strings
-- [Trie] (src/main/java/org/sunny/datastructures/string/trie/UnicodeTrieImpl.java)
+- [Trie](https://github.com/sunnydas/ds-algo-toolkit/blob/f410e3419e80f7b91842a252dcf9347da2502583/src/main/java/org/sunny/datastructures/string/trie/UnicodeTrieImpl.java)
 
 ### Algorithms implemented in this repository
 #### Strings
-- [Longest prefix] (src/main/java/org/sunny/datastructures/string/algos/PrefixMatching.java)
+- [Longest prefix](https://github.com/sunnydas/ds-algo-toolkit/blob/f410e3419e80f7b91842a252dcf9347da2502583/src/main/java/org/sunny/datastructures/string/algos/PrefixMatching.java)
