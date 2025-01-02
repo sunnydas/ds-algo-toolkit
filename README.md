@@ -15,11 +15,6 @@ To run the application (on **MacOS/Linux**), one can simply execute the followin
 ./gradlew build
 ```
 
-- Run the CLI
-```shell
-./gradlew run --args="src/main/resources/prefixes.txt"
-```
-
 ### Tests
 
 To run tests, once can do:
